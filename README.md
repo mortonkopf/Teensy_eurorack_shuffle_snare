@@ -5,6 +5,7 @@ based on the description of snare synthesis found here:
 https://www.soundonsound.com/techniques/synthesizing-drums-snare-drum
 
 using the four waveforms and noise described in the above:
+
 AudioSynthNoiseWhite     noise1;         //
 
 AudioSynthWaveform       waveform4;      //sine 180Hz
